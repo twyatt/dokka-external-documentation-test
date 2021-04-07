@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/example1/[root]/index.html
+$dokka.location:/Example1///PointingToDeclaration/example1/[root]/-example1/index.html
+$dokka.location:/Example1/hello/#com.juul.koap.Message.Udp/PointingToDeclaration/example1/[root]/-example1/hello.html
+
+
